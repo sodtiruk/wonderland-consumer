@@ -1,0 +1,8 @@
+th\co\priorsolution\project\wonderlandconsumer\component\kafka\KafkaConsumerConfiguration.class
+th\co\priorsolution\project\wonderlandconsumer\repository\UserNativeRepository.class
+th\co\priorsolution\project\wonderlandconsumer\repository\impl\UserNativeRepositoryImpl.class
+th\co\priorsolution\project\wonderlandconsumer\model\UserModel.class
+th\co\priorsolution\project\wonderlandconsumer\service\UserService$1.class
+th\co\priorsolution\project\wonderlandconsumer\service\UserService.class
+th\co\priorsolution\project\wonderlandconsumer\WonderlandconsumerApplication.class
+th\co\priorsolution\project\wonderlandconsumer\component\kafka\KafkaConsumerComponent.class

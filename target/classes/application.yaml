@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: wonderlandconsumer
+  datasource:
+    username: root
+    password: password
+    url: jdbc:mysql://localhost:4001/wonder_world
+    driver-class-name: com.mysql.cj.jdbc.Driver
+kafka:
+  server: localhost:29092
+  offset-reset: latest
+  topics:
+    regist: regist.topic
+  groupid:
+    regist: group.regist.topic
+server:
+  port: 8081
+
